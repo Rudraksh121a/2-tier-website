@@ -1,0 +1,9 @@
+todo.db
+__pycache__/
+*.pyc
+.env
+.vscode/
+.DS_Store
+.venv/
+Dockerfile
+Readme.md
