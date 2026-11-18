@@ -1,5 +1,7 @@
 # Flask Todo List Application
 
+[▶️ Watch the project video](https://youtu.be/vIZQYBA-zZQ)
+
 A beautiful and responsive todo list application built with Flask, SQLite, and Tailwind CSS.
 
 ## Features
